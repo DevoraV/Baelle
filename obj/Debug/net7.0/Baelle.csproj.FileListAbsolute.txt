@@ -1,0 +1,15 @@
+C:\Users\Tommy\Desktop\projekte\Baelle\bin\Debug\net7.0\Baelle.exe
+C:\Users\Tommy\Desktop\projekte\Baelle\bin\Debug\net7.0\Baelle.deps.json
+C:\Users\Tommy\Desktop\projekte\Baelle\bin\Debug\net7.0\Baelle.runtimeconfig.json
+C:\Users\Tommy\Desktop\projekte\Baelle\bin\Debug\net7.0\Baelle.dll
+C:\Users\Tommy\Desktop\projekte\Baelle\bin\Debug\net7.0\Baelle.pdb
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.csproj.AssemblyReference.cache
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.AssemblyInfoInputs.cache
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.AssemblyInfo.cs
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.dll
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\refint\Baelle.dll
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.pdb
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\Baelle.genruntimeconfig.cache
+C:\Users\Tommy\Desktop\projekte\Baelle\obj\Debug\net7.0\ref\Baelle.dll
