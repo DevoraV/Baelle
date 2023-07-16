@@ -28,7 +28,7 @@ public class Baelle {
                 else if (line.StartsWith("aufgeblasen")){
                     string[] zeile = line.Split(" ");
                     if (zeile[1] == "tennis"){
-                        Console.WriteLine(zeile[2] + " = " + zeile[3]);
+                        Console.WriteLine(zeile[2] + " = " + zeile[4]);
                     }
 
                 }

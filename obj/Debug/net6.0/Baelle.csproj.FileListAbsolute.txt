@@ -1,0 +1,15 @@
+/Users/tommy31/Desktop/Baelle/bin/Debug/net6.0/Baelle
+/Users/tommy31/Desktop/Baelle/bin/Debug/net6.0/Baelle.deps.json
+/Users/tommy31/Desktop/Baelle/bin/Debug/net6.0/Baelle.runtimeconfig.json
+/Users/tommy31/Desktop/Baelle/bin/Debug/net6.0/Baelle.dll
+/Users/tommy31/Desktop/Baelle/bin/Debug/net6.0/Baelle.pdb
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.csproj.AssemblyReference.cache
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.AssemblyInfoInputs.cache
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.AssemblyInfo.cs
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.csproj.CoreCompileInputs.cache
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.dll
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/refint/Baelle.dll
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.pdb
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/Baelle.genruntimeconfig.cache
+/Users/tommy31/Desktop/Baelle/obj/Debug/net6.0/ref/Baelle.dll
